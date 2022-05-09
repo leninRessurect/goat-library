@@ -1,0 +1,2 @@
+# goat-library
+ my library
